@@ -1,0 +1,37 @@
+id,sno,State_UT,Hospitals_Available,Beds_Available,Population_beds
+0,1,Andhra Pradesh,460,37961,2230
+1,2,Arunachal Pradesh,384,5010,236
+2,3,Assam,1020,10179,3062
+3,4,Bihar,671,13231,7846
+4,5,Chhattisgarh,2023,10770,1984
+5,6,Goa,11,2510,581
+6,7,Gujarat,1553,35470,1746
+7,8,Haryana,154,7879,3122
+8,9,Himachal Pradesh,151,8485,808
+9,10,Jammu +ACY- Kashmir,1969,7318,1733
+10,11,Jharkhand,549,5414,6089
+11,12,Karnataka,765,51986,1119
+12,13,Kerala,1255,37021,910
+13,14,Madhya Pradesh,1539,30302,2492
+14,15,Maharashtra,1173,47217,2477
+15,16,Manipur,225,1385,2
+16,17,Meghalaya,40,2957,876
+17,18,Mizoram,22,1064,1132
+18,19,Nagaland,53,2427,905
+19,20,Orissa,1750,16683,2514
+20,21,Punjab,243,11419,2426
+21,22,Rajasthan,2512,38617,1777
+22,23,Sikkim,33,1560,390
+23,24,Tamil Nadu,1995,62229,1203
+24,25,Tripura,39,3485,1026
+25,26,Uttar Pradesh,861,56384,3499
+26,27,Uttarakhand,695,7965,1194
+27,28,West Bengal,1566,77210,1213
+28,29,Andaman+AKA- +ACY- Nicobar Islands,32,1075,353
+29,30,Chandigarh,5,1750,603
+30,31,Dadra +ACY- Nagar Haveli,2,281,1221
+31,32,Daman +ACY- Diu,4,200,1215
+32,33,Delhi,109,22961,744
+33,34,Lakshadweep,3,120,533
+34,35,Puducherry,50,2103,571
+35,36,India,35416,1376013,879

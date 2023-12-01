@@ -1,0 +1,36 @@
+id,Age,Gender,Patient_status,City,State
+0,70,M,Deceased,Mumbai,Maharashtra
+1,85,M,Deceased,Mumbai,Maharashtra
+2,54,F,Recovered,Bangalore,Karnataka
+3,65,M,Recovered,Chennai,Chennai
+4,55,F,Recovered,Indore,Madhya Pradesh
+5,20,M,Recovered,Udaipur,Rajasthan
+6,21,F,Recovered,Delhi,Delhi
+7,45,M,Recovered,Thane,Maharashtra
+8,30,M,Recovered,Kochi,Kerala
+9,57,M,Deceased,Howrah,West Bengal
+10,49,F,Deceased,Indore,Madhya Pradesh
+11,57,M,Deceased,Belghoria,West Bengal
+12,25,M,Deceased,Gorakhpur,Uttar Pradesh
+13,55,F,Recovered,Hyderabad,Telangana
+14,26,F,Recovered,Kashmir,Jammu and Kashmir
+15,38,M,Recovered,Amritsar,Punjab
+16,44,F,Recovered,Siliguri,West Bengal
+17,57,M,Recovered,Pune,Maharashtra
+18,45,F,Recovered,Guwahati,Assam
+19,65,F,Recovered,Dispur,Assam
+20,51,M,Deceased,Mumbai,Maharashtra
+21,72,M,Deceased,Meerut,Uttar Pradesh
+22,45,M,Recovered,Lucknow,Uttar Pradesh
+23,56,M,Deceased,Dharavi,Maharashtra
+24,52,M,Deceased,Rajkot,Gujarat
+25,68,F,Deceased,Puri,Bhubaneshwar
+26,40,F,Deceased,Bhopal,Madhya Pradesh
+27,55,F,Recovered,Shillong,Meghalaya
+28,54,M,Deceased,Jaipur,Rajasthan
+29,42,M,Recovered,Gangtok,West Bengal
+30,24,F,Deceased,dehradun,uttarakhand
+31,23,M,Recovered,Darjeeling,West Bengal
+32,78,F,Recovered,Roorkie,uttarakhand
+33,54,M,Recovered,Haridwar,uttarakhand
+34,74,F,Recovered,Mysore,Karnataka
